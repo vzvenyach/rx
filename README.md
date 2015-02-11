@@ -10,6 +10,7 @@ because things should be scripted
 - [] tell DO droplet DNS to point to domain
 - [] start server
 - [] run nginx-ssl
+- [] Create a new jekyll site
 
 # Things that should be installed automatically
 - [x] rbenv
